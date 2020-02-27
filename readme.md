@@ -21,7 +21,7 @@ This tool works with websites having the following form structure
     ...
 </form>
 ~~~~
-If this tool doesn't work with the website you wantyou need to do some more modification such as deleting javascript, adding actions or moving forms
+If this tool doesn't work with the website you want, you need to do some more modification such as deleting javascript, adding actions or moving forms
 
 ## requirements
 * wget
