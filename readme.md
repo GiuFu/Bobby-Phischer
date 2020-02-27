@@ -1,4 +1,4 @@
-# Bobby Phischer, the easier phishing tool for bad webisites
+# Bobby Phischer, the easiest phishing tool for bad webisites
 
 Bobby Phischer helps you understand how phishing works and how easy it is, everything it does is:
 * download page
