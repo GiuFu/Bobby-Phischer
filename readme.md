@@ -27,4 +27,5 @@ If this tool doesn't work with the website you want, you need to do some more mo
 * wget
 * php
 * python3
+* pip3 install bs4 (just "pip" on windows)
 * MinGW (for Windows)
