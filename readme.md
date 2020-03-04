@@ -5,11 +5,11 @@ Bobby Phischer helps you understand how phishing works and how easy it is, every
 * replace actions
 * start PHP server 
 * print POST data to logs.txt
-* rediect to real website
+* redirect to real website
 
 ## usage 
 * python3 main.py  URL PORT
-* only URL if you just want to download the website and replace the action of every form, in windows use just "python"
+* only URL if you just want to download the website and replace the action of every form, on windows use just "python"
 
 If you want to do something different with the POST data, edit action.php
 
